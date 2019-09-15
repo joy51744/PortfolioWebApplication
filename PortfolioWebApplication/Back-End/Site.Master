@@ -1,0 +1,240 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PortfolioWebApplication.Back_End.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            background: #EEE;
+            font: 10px/13px 'Lucida Sans',sans-serif;
+        }
+
+        .wrap {
+            overflow: hidden;
+            margin: 10px;
+        }
+
+        .box {
+            float: left;
+            position: relative;
+            width: 20%;
+            padding-bottom: 20%;
+        }
+
+        .boxInner {
+            position: absolute;
+            left: 10px;
+            right: 10px;
+            top: 10px;
+            bottom: 10px;
+            overflow: hidden;
+        }
+
+            .boxInner img {
+                width: 100%;
+            }
+
+            .boxInner .titleBox {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                margin-bottom: -50px;
+                background: #000;
+                background: rgba(0, 0, 0, 0.5);
+                color: #FFF;
+                padding: 10px;
+                text-align: center;
+                -webkit-transition: all 0.3s ease-out;
+                -moz-transition: all 0.3s ease-out;
+                -o-transition: all 0.3s ease-out;
+                transition: all 0.3s ease-out;
+            }
+
+        body.no-touch .boxInner:hover .titleBox, body.touch .boxInner.touchFocus .titleBox {
+            margin-bottom: 0;
+        }
+
+        @media only screen and (max-width : 480px) {
+            /* Smartphone view: 1 tile */
+            .box {
+                width: 100%;
+                padding-bottom: 100%;
+            }
+        }
+
+        @media only screen and (max-width : 650px) and (min-width : 481px) {
+            /* Tablet view: 2 tiles */
+            .box {
+                width: 50%;
+                padding-bottom: 50%;
+            }
+        }
+
+        @media only screen and (max-width : 1050px) and (min-width : 651px) {
+            /* Small desktop / ipad view: 3 tiles */
+            .box {
+                width: 33.3%;
+                padding-bottom: 33.3%;
+            }
+        }
+
+        @media only screen and (max-width : 1290px) and (min-width : 1051px) {
+            /* Medium desktop: 4 tiles */
+            .box {
+                width: 25%;
+                padding-bottom: 25%;
+            }
+        }
+
+        .header {
+            background-color: #B0C4DE;
+            border-top: solid 1px #9dbbcc;
+            border-bottom: solid 1px #9dbbcc;
+        }
+
+        .separator {
+            border-right: 1px solid #ccc;
+            border-bottom-width: thick;
+            border-left-width: thick;
+        }
+
+        .style1 {
+            width: 1600px;
+        }
+
+        .style2 {
+            font-size: xx-large;
+            color: #FFFFFF;
+            height: 50px;
+        }
+
+        .style3 {
+            width: 100px;
+        }
+
+        .style4 {
+            font-family: 微軟正黑體;
+            background-color: #800000;
+        }
+
+        .style5 {
+            font-size: xx-large;
+        }
+
+        .style6 {
+            font-size: large;
+        }
+
+        .style7 {
+            font-size: Small;
+        }
+
+        .left-page-style {
+            width: 10%;
+            height: 800px;
+            background-color: lightgray;
+        }
+
+        .center-page-style {
+            width: 80%;
+            height: 800px;
+            background-color: lightblue;
+        }
+
+        .right-page-style {
+            width: 10%;
+            height: 800px;
+            background-color: lightgray;
+        }
+
+        .main-page-style {
+            width: 80%;
+            height: 800px;
+            font-family: 微軟正黑體;
+            background-color: lightblue;
+            text-align: justify;
+        }
+
+        .textAlign {
+            text-align: center;
+        }
+
+        .auto-style1 {
+            height: 1200px;
+            width: 208px;
+            float: left;
+            text-align: center;
+        }
+
+        .auto-style2 {
+            height: 1200px;
+            width: 1441px;
+            float: left;
+        }
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="http://www.softwhy.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+    <meta name="author" content="http://www.softwhy.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+    <link href="../css/all.min.css" rel="stylesheet">
+    <link href="../css/resume.min.css" rel="stylesheet">
+
+    <title>馬顥心 | 後端網頁作品集</title>
+</head>
+<body>
+    <div class="off-canvas-wrapper">
+        <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                    <span class="d-block d-lg-none">Clarence Taylor</span>
+                    <span class="d-none d-lg-block">
+                        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../image/Joy.jpg" alt="">
+                    </span>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link js-scroll-trigger" href="#">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link js-scroll-trigger" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link js-scroll-trigger" href="#">Portfolio</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="callout primary">
+            <header class="col-md-12 text-center">
+                <h2>This is a portfolio of back-end web pages,including ASP.NET, PHP, Node.js</h2>
+            </header>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div id="footer" style="background-color: #FFA500; clear: both; text-align: center;">
+        <p style="color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">&copy; <%: DateTime.Now.Year %>  - My Back-End Portfolio</p>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+    <script>
+        $(document).foundation();
+    </script>
+</body>
+</html>
