@@ -82,10 +82,12 @@
     <Content Include="Back-End\PortfolioWebForm13.aspx" />
     <Content Include="Back-End\PortfolioWebForm14.aspx" />
     <Content Include="Back-End\PortfolioWebForm15.aspx" />
+    <Content Include="Contact.html" />
     <Content Include="css\all.min.css" />
     <Content Include="css\blog-home.css" />
     <Content Include="css\blog-post.css" />
     <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\form.css" />
     <Content Include="css\resume.min.css" />
     <Content Include="css\round-about.css" />
     <Content Include="css\shop-item.css" />
@@ -117,6 +119,7 @@
     <Content Include="Front-End\PortfolioWebForm8.aspx" />
     <Content Include="Front-End\PortfolioWebForm9.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="images\jurassic-coast-1089035_1920.jpg" />
     <Content Include="image\01.png" />
     <Content Include="image\223.png" />
     <Content Include="image\AngularJS.png" />
@@ -144,6 +147,7 @@
     <Content Include="image\user-3.jpg" />
     <Content Include="image\vue.jpeg" />
     <Content Include="index.html" />
+    <Content Include="js\form.js" />
     <Content Include="Portfolio.html" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
