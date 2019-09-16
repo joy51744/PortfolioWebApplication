@@ -222,7 +222,7 @@
         </div>
         <div class="callout primary">
             <header class="col-md-12 text-center">
-                <h2>This is a portfolio of back-end web pages,including ASP.NET, PHP, Node.js</h2>
+                <h2>This is a portfolio of back-end web pages,including ASP.NET, PHP, Node.js, Laravel, ASP.NET MVC</h2>
             </header>
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>

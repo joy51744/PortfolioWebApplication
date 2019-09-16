@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Back-End/Site.Master" AutoEventWireup="true" CodeBehind="PortfolioWebForm11.aspx.cs" Inherits="PortfolioWebApplication.Back_End.PortfolioWebForm11" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Back-End/Site.Master" AutoEventWireup="true" CodeBehind="PortfolioWebForm12.aspx.cs" Inherits="PortfolioWebApplication.Back_End.PortfolioWebForm12" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <style>
@@ -184,8 +184,8 @@
         <div class="center">
             <ul class="pagination">
                 <li><a href="PortfolioWebForm1.aspx" style="background-color: #02df82">Prev &laquo;</a></li>
-                <li><a class="active">11</a></li>
-                <li><a href="PortfolioWebForm12.aspx">12</a></li>
+                <li><a href="PortfolioWebForm11.aspx">11</a></li>
+                <li><a class="active">12</a></li>
                 <li><a href="PortfolioWebForm13.aspx">13</a></li>
                 <li><a href="PortfolioWebForm14.aspx">14</a></li>
                 <li><a href="PortfolioWebForm15.aspx">15</a></li>

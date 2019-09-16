@@ -78,9 +78,18 @@
     <Content Include="Back-End\PortfolioWebForm09.aspx" />
     <Content Include="Back-End\PortfolioWebForm10.aspx" />
     <Content Include="Back-End\PortfolioWebForm11.aspx" />
+    <Content Include="Back-End\PortfolioWebForm12.aspx" />
+    <Content Include="Back-End\PortfolioWebForm13.aspx" />
+    <Content Include="Back-End\PortfolioWebForm14.aspx" />
+    <Content Include="Back-End\PortfolioWebForm15.aspx" />
     <Content Include="css\all.min.css" />
+    <Content Include="css\blog-home.css" />
+    <Content Include="css\blog-post.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\resume.min.css" />
+    <Content Include="css\round-about.css" />
+    <Content Include="css\shop-item.css" />
+    <Content Include="css\small-business.css" />
     <Content Include="Front-End\PortfolioWebForm010.aspx" />
     <Content Include="Front-End\PortfolioWebForm011.aspx" />
     <Content Include="Front-End\PortfolioWebForm012.aspx" />
@@ -107,6 +116,7 @@
     <Content Include="Front-End\PortfolioWebForm8.aspx" />
     <Content Include="Front-End\PortfolioWebForm9.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="image\01.png" />
     <Content Include="image\223.png" />
     <Content Include="image\AngularJS.png" />
     <Content Include="image\bootstrap.png" />
@@ -121,12 +131,30 @@
     <Content Include="image\javascript.png" />
     <Content Include="image\Joy.jpg" />
     <Content Include="image\jquery.png" />
+    <Content Include="image\Laravel.jpg" />
+    <Content Include="image\mvc.png" />
     <Content Include="image\nodejs.jpeg" />
     <Content Include="image\PHP.png" />
     <Content Include="image\React.jpeg" />
     <Content Include="image\sass.png" />
     <Content Include="image\vue.jpeg" />
     <Content Include="index.html" />
+    <Content Include="Portfolio.html" />
+    <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle%281%29.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="vendor\jquery\jquery.js" />
+    <Content Include="vendor\jquery\jquery.min.js" />
+    <Content Include="vendor\jquery\jquery.slim.js" />
+    <Content Include="vendor\jquery\jquery.slim.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -206,6 +234,34 @@
     </Compile>
     <Compile Include="Back-End\PortfolioWebForm11.aspx.designer.cs">
       <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm12.aspx.cs">
+      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm12.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm13.aspx.cs">
+      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm13.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm14.aspx.cs">
+      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm14.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm15.aspx.cs">
+      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm15.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
     </Compile>
     <Compile Include="Back-End\Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -397,6 +453,14 @@
   <ItemGroup>
     <Content Include="Back-End\Site.Master" />
     <None Include="packages.config" />
+    <Content Include="vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="vendor\jquery\jquery.min.map" />
+    <Content Include="vendor\jquery\jquery.slim.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
