@@ -166,14 +166,14 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#">Home</a>
+                            <a class="nav-link js-scroll-trigger" href="../index.html">Home</a>
                         </li>
 
                         <li class="nav-item">
                             <a class="nav-link js-scroll-trigger" href="#">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#">Portfolio</a>
+                            <a class="nav-link js-scroll-trigger" href="../Portfolio.html">Portfolio</a>
                         </li>
                     </ul>
                 </div>
@@ -355,7 +355,7 @@
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
     <script>
-            $(document).foundation();
+        $(document).foundation();
     </script>
 </body>
 </html>

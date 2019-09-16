@@ -90,6 +90,7 @@
     <Content Include="css\round-about.css" />
     <Content Include="css\shop-item.css" />
     <Content Include="css\small-business.css" />
+    <Content Include="css\the-big-picture.css" />
     <Content Include="Front-End\PortfolioWebForm010.aspx" />
     <Content Include="Front-End\PortfolioWebForm011.aspx" />
     <Content Include="Front-End\PortfolioWebForm012.aspx" />
@@ -119,8 +120,11 @@
     <Content Include="image\01.png" />
     <Content Include="image\223.png" />
     <Content Include="image\AngularJS.png" />
+    <Content Include="image\bg.jpg" />
     <Content Include="image\bootstrap.png" />
     <Content Include="image\code.jpg" />
+    <Content Include="image\coding.jpg" />
+    <Content Include="image\cover_bg_3.jpg" />
     <Content Include="image\css.png" />
     <Content Include="image\css3.jpg" />
     <Content Include="image\foundation.jpg" />
@@ -137,6 +141,7 @@
     <Content Include="image\PHP.png" />
     <Content Include="image\React.jpeg" />
     <Content Include="image\sass.png" />
+    <Content Include="image\user-3.jpg" />
     <Content Include="image\vue.jpeg" />
     <Content Include="index.html" />
     <Content Include="Portfolio.html" />
