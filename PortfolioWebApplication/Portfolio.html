@@ -10,7 +10,31 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="css/small-business.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script>
+        var slideIndex = 1;
+        showDivs(slideIndex);
+
+        function plusDivs(n) {
+            showDivs(slideIndex += n);
+        }
+
+        function showDivs(n) {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            if (n > x.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = x.length }
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[slideIndex - 1].style.display = "block";
+        }
+    </script>
     <style>
+        .mySlides {
+            display: none;
+        }
+
         .table {
             text-align: center;
             padding: 0.95rem 1.25rem;
@@ -57,11 +81,18 @@
                 <p>歡迎來到喬妹的網頁作品集，這裡是在開始接觸網頁和程式時實作所集結而成的作品,希望大家可以給予批評指教!</p>
                 <br><br>
                 <br>
-                <a class="btn btn-primary btn-lg" href="">Go to portfolio</a>
             </div>
             <!-- /.col-lg-8 -->
             <div class="col-lg-4">
-                <img src="image/coding.jpg" alt="coding" style="width:350px; height:200px" />
+                <div class="w3-content w3-display-container" style="width:350px; height:350px">
+                    <img class="mySlides" src="image/code.jpg" style="width:350px; height:350px">
+                    <img class="mySlides" src="image/coding.jpg" style="width:350px; height:350px">
+                    <img class="mySlides" src="image/01.png" style="width:350px; height:350px">
+                    <img class="mySlides" src="image/223.png" style="width:350px; height:350px">
+
+                    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                    <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+                </div>
             </div>
             <!-- /.col-md-4 -->
         </div>
