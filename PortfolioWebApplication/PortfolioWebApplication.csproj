@@ -130,8 +130,10 @@
     <Content Include="image\cover_bg_3.jpg" />
     <Content Include="image\css.png" />
     <Content Include="image\css3.jpg" />
+    <Content Include="image\curriculum.png" />
     <Content Include="image\foundation.jpg" />
     <Content Include="image\game.png" />
+    <Content Include="image\github.png" />
     <Content Include="image\html.png" />
     <Content Include="image\html5.jpg" />
     <Content Include="image\images.png" />
