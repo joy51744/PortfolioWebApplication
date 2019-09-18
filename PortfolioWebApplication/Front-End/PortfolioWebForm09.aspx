@@ -146,17 +146,16 @@
     <hr />
     <div class="center">
         <ul class="pagination">
-            <li><a href="PortfolioWebForm1.aspx" style="background-color: #02df82">Prev &laquo;</a></li>
-            <li><a class="active">11</a></li>
-            <li><a href="PortfolioWebForm012.aspx">12</a></li>
-            <li><a href="PortfolioWebForm013.aspx">13</a></li>
-            <li><a href="PortfolioWebForm014.aspx">14</a></li>
-            <li><a href="PortfolioWebForm015.aspx">15</a></li>
-            <li><a href="PortfolioWebForm016.aspx">16</a></li>
-            <li><a href="PortfolioWebForm017.aspx">17</a></li>
-            <li><a href="PortfolioWebForm018.aspx">18</a></li>
-            <li><a href="PortfolioWebForm019.aspx">19</a></li>
-            <li><a href="PortfolioWebForm020.aspx">20</a></li>
+            <li><a href="PortfolioWebForm01.aspx" class="active">1</a></li>
+            <li><a href="PortfolioWebForm02.aspx">2</a></li>
+            <li><a href="PortfolioWebForm03.aspx">3</a></li>
+            <li><a href="PortfolioWebForm04.aspx">4</a></li>
+            <li><a href="PortfolioWebForm05.aspx">5</a></li>
+            <li><a href="PortfolioWebForm06.aspx">6</a></li>
+            <li><a href="PortfolioWebForm07.aspx">7</a></li>
+            <li><a href="PortfolioWebForm08.aspx">8</a></li>
+            <li><a href="PortfolioWebForm09.aspx">9</a></li>
+            <li><a href="PortfolioWebForm10.aspx">10</a></li>
         </ul>
     </div>
 </asp:Content>

@@ -94,20 +94,7 @@
     <Content Include="css\small-business.css" />
     <Content Include="css\the-big-picture.css" />
     <Content Include="Front-End\PortfolioWebForm01.aspx" />
-    <Content Include="Front-End\PortfolioWebForm013.aspx" />
-    <Content Include="Front-End\PortfolioWebForm014.aspx" />
-    <Content Include="Front-End\PortfolioWebForm015.aspx" />
-    <Content Include="Front-End\PortfolioWebForm016.aspx" />
-    <Content Include="Front-End\PortfolioWebForm017.aspx" />
-    <Content Include="Front-End\PortfolioWebForm018.aspx" />
-    <Content Include="Front-End\PortfolioWebForm019.aspx" />
     <Content Include="Front-End\PortfolioWebForm02.aspx" />
-    <Content Include="Front-End\PortfolioWebForm020.aspx" />
-    <Content Include="Front-End\PortfolioWebForm021.aspx" />
-    <Content Include="Front-End\PortfolioWebForm022.aspx" />
-    <Content Include="Front-End\PortfolioWebForm023.aspx" />
-    <Content Include="Front-End\PortfolioWebForm024.aspx" />
-    <Content Include="Front-End\PortfolioWebForm025.aspx" />
     <Content Include="Front-End\PortfolioWebForm03.aspx" />
     <Content Include="Front-End\PortfolioWebForm04.aspx" />
     <Content Include="Front-End\PortfolioWebForm05.aspx" />
@@ -116,6 +103,16 @@
     <Content Include="Front-End\PortfolioWebForm08.aspx" />
     <Content Include="Front-End\PortfolioWebForm09.aspx" />
     <Content Include="Front-End\PortfolioWebForm10.aspx" />
+    <Content Include="Front-End\PortfolioWebForm11.aspx" />
+    <Content Include="Front-End\PortfolioWebForm12.aspx" />
+    <Content Include="Front-End\PortfolioWebForm13.aspx" />
+    <Content Include="Front-End\PortfolioWebForm14.aspx" />
+    <Content Include="Front-End\PortfolioWebForm15.aspx" />
+    <Content Include="Front-End\PortfolioWebForm16.aspx" />
+    <Content Include="Front-End\PortfolioWebForm17.aspx" />
+    <Content Include="Front-End\PortfolioWebForm18.aspx" />
+    <Content Include="Front-End\PortfolioWebForm19.aspx" />
+    <Content Include="Front-End\PortfolioWebForm20.aspx" />
     <Content Include="Global.asax" />
     <Content Include="images\jurassic-coast-1089035_1920.jpg" />
     <Content Include="image\01.png" />
@@ -286,103 +283,12 @@
     <Compile Include="Front-End\PortfolioWebForm01.aspx.designer.cs">
       <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Front-End\PortfolioWebForm013.aspx.cs">
-      <DependentUpon>PortfolioWebForm013.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm013.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm013.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm014.aspx.cs">
-      <DependentUpon>PortfolioWebForm014.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm014.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm014.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm015.aspx.cs">
-      <DependentUpon>PortfolioWebForm015.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm015.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm015.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm016.aspx.cs">
-      <DependentUpon>PortfolioWebForm016.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm016.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm016.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm017.aspx.cs">
-      <DependentUpon>PortfolioWebForm017.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm017.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm017.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm018.aspx.cs">
-      <DependentUpon>PortfolioWebForm018.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm018.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm018.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm019.aspx.cs">
-      <DependentUpon>PortfolioWebForm019.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm019.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm019.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Front-End\PortfolioWebForm02.aspx.cs">
       <DependentUpon>PortfolioWebForm02.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Front-End\PortfolioWebForm02.aspx.designer.cs">
       <DependentUpon>PortfolioWebForm02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm020.aspx.cs">
-      <DependentUpon>PortfolioWebForm020.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm020.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm020.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm021.aspx.cs">
-      <DependentUpon>PortfolioWebForm021.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm021.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm021.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm022.aspx.cs">
-      <DependentUpon>PortfolioWebForm022.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm022.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm022.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm023.aspx.cs">
-      <DependentUpon>PortfolioWebForm023.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm023.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm023.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm024.aspx.cs">
-      <DependentUpon>PortfolioWebForm024.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm024.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm024.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm025.aspx.cs">
-      <DependentUpon>PortfolioWebForm025.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm025.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm025.aspx</DependentUpon>
     </Compile>
     <Compile Include="Front-End\PortfolioWebForm03.aspx.cs">
       <DependentUpon>PortfolioWebForm03.aspx</DependentUpon>
@@ -439,6 +345,76 @@
     </Compile>
     <Compile Include="Front-End\PortfolioWebForm10.aspx.designer.cs">
       <DependentUpon>PortfolioWebForm10.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm11.aspx.cs">
+      <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm11.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm12.aspx.cs">
+      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm12.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm13.aspx.cs">
+      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm13.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm14.aspx.cs">
+      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm14.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm15.aspx.cs">
+      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm15.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm16.aspx.cs">
+      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm16.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm17.aspx.cs">
+      <DependentUpon>PortfolioWebForm17.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm17.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm17.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm18.aspx.cs">
+      <DependentUpon>PortfolioWebForm18.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm18.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm18.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm19.aspx.cs">
+      <DependentUpon>PortfolioWebForm19.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm19.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm19.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm20.aspx.cs">
+      <DependentUpon>PortfolioWebForm20.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm20.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm20.aspx</DependentUpon>
     </Compile>
     <Compile Include="Front-End\Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
