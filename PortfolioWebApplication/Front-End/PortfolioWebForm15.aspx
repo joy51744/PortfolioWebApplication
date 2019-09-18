@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Front-End/Site.Master" AutoEventWireup="true" CodeBehind="PortfolioWebForm15.aspx.cs" Inherits="PortfolioWebApplication.Front_End.PortfolioWebForm15" %>
+﻿<%@ Page Title="馬顥心 | 前端網頁作品集" Language="C#" MasterPageFile="~/Front-End/Site.Master" AutoEventWireup="true" CodeBehind="PortfolioWebForm15.aspx.cs" Inherits="PortfolioWebApplication.Front_End.PortfolioWebForm15" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container grid-demo">
@@ -151,7 +151,7 @@
             <li><a href="PortfolioWebForm12.aspx">12</a></li>
             <li><a href="PortfolioWebForm13.aspx">13</a></li>
             <li><a href="PortfolioWebForm14.aspx">14</a></li>
-            <li><a class="active"15</a></li>
+            <li><a class="active">15</a></li>
             <li><a href="PortfolioWebForm16.aspx">16</a></li>
             <li><a href="PortfolioWebForm17.aspx">17</a></li>
             <li><a href="PortfolioWebForm18.aspx">18</a></li>

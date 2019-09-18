@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Front-End/Site.Master" AutoEventWireup="true" CodeBehind="PortfolioWebForm11.aspx.cs" Inherits="PortfolioWebApplication.Front_End.PortfolioWebForm11" %>
+﻿<%@ Page Title="馬顥心 | 前端網頁作品集" Language="C#" MasterPageFile="~/Front-End/Site.Master" AutoEventWireup="true" CodeBehind="PortfolioWebForm11.aspx.cs" Inherits="PortfolioWebApplication.Front_End.PortfolioWebForm11" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container grid-demo">
@@ -147,7 +147,7 @@
     <hr />
     <div class="center">
         <ul class="pagination">
-            <li><a href="PortfolioWebForm1.aspx" style="background-color: #02df82">Prev &laquo;</a></li>
+            <li><a href="PortfolioWebForm01.aspx" style="background-color: #02df82">Prev &laquo;</a></li>
             <li><a class="active">11</a></li>
             <li><a href="PortfolioWebForm12.aspx">12</a></li>
             <li><a href="PortfolioWebForm13.aspx">13</a></li>
