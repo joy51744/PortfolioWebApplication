@@ -147,7 +147,7 @@
     <hr />
     <div class="center">
         <ul class="pagination">
-            <li><a href="PortfolioWebForm01.aspx" class="active">1</a></li>
+            <li><a class="active">1</a></li>
             <li><a href="PortfolioWebForm02.aspx">2</a></li>
             <li><a href="PortfolioWebForm03.aspx">3</a></li>
             <li><a href="PortfolioWebForm04.aspx">4</a></li>
