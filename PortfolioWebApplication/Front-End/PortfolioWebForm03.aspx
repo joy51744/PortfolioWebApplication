@@ -11,7 +11,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/div/div.html">CSS Portfolio - 單欄式網頁版型</a></p>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - 二欄式網頁版型</a></p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - 三單欄式網頁版型</a></p>
                     </div>
                 </div>
             </div>
