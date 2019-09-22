@@ -188,7 +188,7 @@
                 </div>
                 <div class="callout primary">
                     <header class="col-md-12 text-center">
-                        <h2>This is a portfolio of front-end web pages,including HTML, CSS, JavaScript, Bootstrap, Foundation, jQuery, Angular, React, Vue.js</h2>
+                        <h2>This is a portfolio of front-end web pages,including HTML, CSS, JavaScript, Pure, Bootstrap, Foundation, jQuery, Angular, React, Vue.js</h2>
                     </header>
                 </div>
                 <div class="container grid-demo">
@@ -203,10 +203,11 @@
                 </div>
             </div>
         </div>
-        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-        <script src="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
-        <script>
-            $(document).foundation();
-        </script>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+    <script>
+        $(document).foundation();
+    </script>
 </body>
 </html>

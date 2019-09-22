@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Back-End\PortfolioWebForm.aspx" />
     <Content Include="Back-End\PortfolioWebForm01.aspx" />
     <Content Include="Back-End\PortfolioWebForm02.aspx" />
     <Content Include="Back-End\PortfolioWebForm03.aspx" />
@@ -82,6 +83,7 @@
     <Content Include="Back-End\PortfolioWebForm13.aspx" />
     <Content Include="Back-End\PortfolioWebForm14.aspx" />
     <Content Include="Back-End\PortfolioWebForm15.aspx" />
+    <Content Include="Back-End\PortfolioWebForm16.aspx" />
     <Content Include="Contact.html" />
     <Content Include="css\all.min.css" />
     <Content Include="css\blog-home.css" />
@@ -93,6 +95,7 @@
     <Content Include="css\shop-item.css" />
     <Content Include="css\small-business.css" />
     <Content Include="css\the-big-picture.css" />
+    <Content Include="Front-End\PortfolioWebForm.aspx" />
     <Content Include="Front-End\PortfolioWebForm01.aspx" />
     <Content Include="Front-End\PortfolioWebForm02.aspx" />
     <Content Include="Front-End\PortfolioWebForm03.aspx" />
@@ -127,7 +130,6 @@
     <Content Include="image\css3.jpg" />
     <Content Include="image\curriculum.png" />
     <Content Include="image\foundation.jpg" />
-    <Content Include="image\game.png" />
     <Content Include="image\github.png" />
     <Content Include="image\html.png" />
     <Content Include="image\html5.jpg" />
@@ -139,10 +141,10 @@
     <Content Include="image\mvc.png" />
     <Content Include="image\nodejs.jpeg" />
     <Content Include="image\PHP.png" />
+    <Content Include="image\pure.png" />
     <Content Include="image\React.jpeg" />
-    <Content Include="image\sass.png" />
-    <Content Include="image\user-3.jpg" />
     <Content Include="image\vue.jpeg" />
+    <Content Include="image\WordPress.png" />
     <Content Include="index.html" />
     <Content Include="js\form.js" />
     <Content Include="Portfolio.html" />
@@ -164,6 +166,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Back-End\PortfolioWebForm.aspx.cs">
+      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Back-End\PortfolioWebForm01.aspx.cs">
       <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -269,12 +278,26 @@
     <Compile Include="Back-End\PortfolioWebForm15.aspx.designer.cs">
       <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Back-End\PortfolioWebForm16.aspx.cs">
+      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Back-End\PortfolioWebForm16.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Back-End\Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Back-End\Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm.aspx.cs">
+      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Front-End\PortfolioWebForm.aspx.designer.cs">
+      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="Front-End\PortfolioWebForm01.aspx.cs">
       <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>

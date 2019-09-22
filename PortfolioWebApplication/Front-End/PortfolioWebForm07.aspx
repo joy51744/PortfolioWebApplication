@@ -8,136 +8,136 @@
             </header>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/pure/.html">Pure Portfolio - </a></p>
                     </div>
                 </div>
             </div>

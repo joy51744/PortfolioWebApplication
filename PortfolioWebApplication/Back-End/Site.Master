@@ -175,6 +175,43 @@
             width: 1441px;
             float: left;
         }
+
+        .pagination {
+            display: inline-block;
+        }
+
+            .pagination a {
+                color: black;
+                float: left;
+                padding: 8px 16px;
+                text-decoration: none;
+                transition: background-color .3s;
+                border: 1px solid #ddd;
+                margin: 0 4px;
+            }
+
+                .pagination a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                    border: 1px solid #4CAF50;
+                }
+
+                .pagination a:hover:not(.active) {
+                    background-color: #ddd;
+                }
+
+        div.center {
+            text-align: center;
+        }
+
+        .ex1 {
+            width: 150px;
+            height: 150px;
+            line-height: 150px;
+            max-width: 100%;
+            display: inline-block;
+            vertical-align: middle;
+        }
     </style>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="author" content="http://www.softwhy.com/" />
@@ -222,7 +259,7 @@
         </div>
         <div class="callout primary">
             <header class="col-md-12 text-center">
-                <h2>This is a portfolio of back-end web pages,including ASP.NET, PHP, Node.js, Laravel, ASP.NET MVC</h2>
+                <h2>This is a portfolio of back-end web pages,including ASP.NET, PHP, Node.js, Laravel, ASP.NET MVC, WordPress</h2>
             </header>
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
