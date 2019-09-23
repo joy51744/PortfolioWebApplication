@@ -110,7 +110,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css3.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css3/.html">CSS3 Portfolio - 布局</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css3/.html">CSS3 Portfolio - Grid布局</a></p>
                     </div>
                 </div>
             </div>
