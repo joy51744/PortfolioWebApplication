@@ -47,6 +47,15 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/box_model.html">CSS Portfolio - Box Model</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card">
+                    <img class="card-img-top" style="height: 150px" src="../image/css.png"
+                        alt="Card image cap">
+                    <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/border.html">CSS Portfolio - 邊框屬性</a></p>
                     </div>
                 </div>
@@ -65,7 +74,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - 導航欄</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/Monet/index.html">CSS Portfolio - 導航列</a></p>
                     </div>
                 </div>
             </div>
@@ -74,7 +83,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - 下拉式選單</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/dropbox.html">CSS Portfolio - 下拉式選單</a></p>
                     </div>
                 </div>
             </div>
@@ -83,7 +92,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/.html">CSS Portfolio - 提示工具</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/tooltip.html">CSS Portfolio - 提示工具</a></p>
                     </div>
                 </div>
             </div>
@@ -92,16 +101,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/sprite.html">CSS Portfolio - CSS Sprite</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/css.png"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/style/index.html">CSS Portfolio - 樣式頁面</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/style/index.html">CSS Portfolio - CSS樣式頁面</a></p>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
     <div class="container grid-demo">
         <div class="row">
             <header class="col-md-12 text-center">
-                <h3>Fornt-End Portfolio Program Language Introduction</h3>
+                <h3>Fornt-End Portfolio Programming Language Introduction</h3>
             </header>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" style="padding-bottom: 10px">
                 <div class="card">
@@ -22,7 +22,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm02.aspx">HTML5</a></p>
-                        <p>HTML5為HTML的延伸語言,HTML5+CSS3+JavaScript為前端最重要的前端技術組合</p>
+                        <p>HTML5為HTML的延伸語言，HTML5+CSS3+JavaScript為前端最重要的前端技術組合</p>
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm03.aspx">CSS</a></p>
-                        <p>CSS為網頁外觀形態的描述語言</p>
+                        <p>CSS為網頁外觀形態的描述語言，CSS不能單獨使用，必須與HTML或XML一起使用，為HTML或XML起裝飾作用。</p>
                     </div>
                 </div>
             </div>
@@ -42,7 +42,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm04.aspx">CSS3</a></p>
-                        <p>CSS3為CSS的延伸語言,HTML5+CSS3+JavaScript為前端最重要的前端技術組合</p>
+                        <p>CSS3為CSS的延伸語言，HTML5+CSS3+JavaScript為前端最重要的前端技術組合</p>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm05.aspx">JavaScript</a></p>
-                        <p>JavaScript經常用在呈現網頁動態效果,HTML5+CSS3+JavaScript為前端最重要的前端技術組合</p>
+                        <p>JavaScript經常用在呈現網頁動態效果，HTML5+CSS3+JavaScript為前端最重要的前端技術組合</p>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm07.aspx">Pure</a></p>
-                        <p>Pure為前端框架,由Yahoo! 推出,不需倚靠太多的工具，就能夠將 CSS 可用性發揮到最高</p>
+                        <p>Pure為前端框架，由Yahoo! 推出，不需倚靠太多的工具，就能夠將 CSS 可用性發揮到最高</p>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm08.aspx">Bootstrap</a></p>
-                        <p>Bootstrap為前端框架,提供各種元件及Javascript擴充套件，旨在使動態網頁和Web應用的開發更加容易</p>
+                        <p>Bootstrap為前端框架，提供各種元件及Javascript擴充套件，旨在使動態網頁和Web應用的開發更加容易</p>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm09.aspx">Foundation</a></p>
-                        <p>Foundation為響應式前端框架,是一個易用、強大而且靈活的框架,用於構建基於任何設備上的 Web 應用</p>
+                        <p>Foundation為響應式前端框架，是一個易用、強大而且靈活的框架,用於構建基於任何設備上的 Web 應用</p>
                     </div>
                 </div>
             </div>

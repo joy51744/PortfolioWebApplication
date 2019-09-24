@@ -33,7 +33,7 @@
     <div class="container grid-demo">
         <div class="row">
             <header class="col-md-12 text-center">
-                <h3>Back-End Portfolio Program Language Introduction</h3>
+                <h3>Back-End Portfolio Programming Language Introduction</h3>
             </header>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" style="padding-bottom: 10px">
                 <div class="card">
@@ -91,7 +91,7 @@
                         alt="Card image cap">
                     <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="PortfolioWebForm16.aspx">WordPress</a></p>
-                        <p>WordPress是一個以PHP和MySQL為平台的自由開源的部落格軟體和內容管理系統,具有外掛程式架構和模板系統,是目前網際網路上最流行的部落格系統。</p>
+                        <p>WordPress是一個以PHP和MySQL為平台的自由開源的部落格軟體和內容管理系統，具有外掛程式架構和模板系統，是目前網際網路上最流行的部落格系統。</p>
                     </div>
                 </div>
             </div>
