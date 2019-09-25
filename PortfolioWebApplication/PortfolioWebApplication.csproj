@@ -95,7 +95,6 @@
     <Content Include="css\shop-item.css" />
     <Content Include="css\small-business.css" />
     <Content Include="css\the-big-picture.css" />
-    <Content Include="drop.html" />
     <Content Include="Front-End\PortfolioWebForm.aspx" />
     <Content Include="Front-End\PortfolioWebForm01.aspx" />
     <Content Include="Front-End\PortfolioWebForm02.aspx" />
