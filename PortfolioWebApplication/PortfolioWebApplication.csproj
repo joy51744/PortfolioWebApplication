@@ -117,6 +117,8 @@
     <Content Include="Front-End\PortfolioWebForm19.aspx" />
     <Content Include="Front-End\PortfolioWebForm20.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="HTML5\canvas.html" />
+    <Content Include="HTML5\canvas_image.html" />
     <Content Include="images\jurassic-coast-1089035_1920.jpg" />
     <Content Include="image\01.png" />
     <Content Include="image\223.png" />
@@ -134,6 +136,7 @@
     <Content Include="image\html.png" />
     <Content Include="image\html5.jpg" />
     <Content Include="image\images.png" />
+    <Content Include="image\img_the_scream.jpg" />
     <Content Include="image\javascript.png" />
     <Content Include="image\Joy.jpg" />
     <Content Include="image\jquery.png" />
