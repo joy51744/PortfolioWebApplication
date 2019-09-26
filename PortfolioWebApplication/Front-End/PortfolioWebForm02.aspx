@@ -38,15 +38,6 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - 登入頁面</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
-                        alt="Card image cap">
-                    <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/click.html">html5 Portfolio - Web 儲存</a></p>
                     </div>
                 </div>
@@ -56,7 +47,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - 視頻</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/video_player.html">html5 Portfolio - 視頻播放器</a></p>
                     </div>
                 </div>
             </div>
@@ -65,7 +56,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - 音樂播放器</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/media_player.html">html5 Portfolio - 音樂播放器</a></p>
                     </div>
                 </div>
             </div>
@@ -74,7 +65,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - 進度條</a></p>
+                        <p class="card-text" style="text-align: center"><a href="../HTML5/progress.html">html5 Portfolio - 進度條</a></p>
                     </div>
                 </div>
             </div>
@@ -83,7 +74,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - 上傳文件</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/upload.html">html5 Portfolio - 上傳文件</a></p>
                     </div>
                 </div>
             </div>
@@ -92,7 +83,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - 數字時鐘</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/clock.html">html5 Portfolio - 數字時鐘</a></p>
                     </div>
                 </div>
             </div>
@@ -110,7 +101,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - Canvas玩轉圖像處理</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - Canvas 玩轉圖像處理</a></p>
                     </div>
                 </div>
             </div>
@@ -128,7 +119,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - Canvas倒計時特效</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/.html">html5 Portfolio - Canvas 倒計時特效</a></p>
                     </div>
                 </div>
             </div>

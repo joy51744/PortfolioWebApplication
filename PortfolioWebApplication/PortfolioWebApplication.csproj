@@ -148,6 +148,7 @@
     <Content Include="index.html" />
     <Content Include="js\form.js" />
     <Content Include="Portfolio.html" />
+    <Content Include="HTML5\progress.html" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-reboot.css" />
