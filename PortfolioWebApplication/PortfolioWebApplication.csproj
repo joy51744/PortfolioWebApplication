@@ -467,6 +467,7 @@
     <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
     <Content Include="vendor\jquery\jquery.min.map" />
     <Content Include="vendor\jquery\jquery.slim.min.map" />
+    <None Include="Properties\PublishProfiles\PortfolioWebApplication2019 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
