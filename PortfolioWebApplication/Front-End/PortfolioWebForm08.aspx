@@ -11,7 +11,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - Grid System</a></p>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - table</a></p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - form</a></p>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - DropdownList</a></p>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - navbar</a></p>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - breadcrumb</a></p>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - pagination</a></p>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - thumbnail</a></p>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - alert</a></p>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - progress</a></p>
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - modal</a></p>
                     </div>
                 </div>
             </div>

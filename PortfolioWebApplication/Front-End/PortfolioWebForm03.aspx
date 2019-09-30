@@ -110,7 +110,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/css.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/web.html">CSS Portfolio - 版型</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/css/picture.html">CSS Portfolio - 文繞圖</a></p>
                     </div>
                 </div>
             </div>

@@ -58,11 +58,11 @@
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12" style="padding-bottom: 10px">
                 <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/pure.png"
+                    <img class="card-img-top" style="height: 150px" src="../image/sass.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="PortfolioWebForm07.aspx">Pure</a></p>
-                        <p>Pure為前端框架，由Yahoo! 推出，不需倚靠太多的工具，就能夠將 CSS 可用性發揮到最高</p>
+                        <p class="card-text" style="text-align: center"><a href="PortfolioWebForm07.aspx">Sass</a></p>
+                        <p>Sass是一種 CSS 的擴充，是CSS 的超集合，sass解決在大型專案時傳統 CSS 會遇到的重複、可維護性差等問題</p>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/foundation.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="PortfolioWebForm09.aspx">Foundation</a></p>
+                        <p class="card-text" style="text-align: center"><a href="PortfolioWebForm10.aspx">Foundation</a></p>
                         <p>Foundation為響應式前端框架，是一個易用、強大而且靈活的框架,用於構建基於任何設備上的 Web 應用</p>
                     </div>
                 </div>

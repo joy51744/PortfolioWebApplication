@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CSS3作品--</title>
+    <style>
+        div {
+            border: 20px solid transparent;
+            width: 330px;
+            padding: 20px;
+        }
+
+        #NewImgBorder {
+            -moz-border-image: url('../../image/border.png') 30 30 round;
+            -webkit-border-image: url('../../image/border.png') 30 30 round; /* 給 Safari 與 Chrome 看*/
+            -o-border-image: url('../../image/border.png') 30 30 round; /* 給 Opera 看*/
+            border-image: url('../../image/border.png') 30 30 round;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center">border 邊框範例</h1>
+    <br />
+    <h2>範例一、設計圓角矩形的 border-radius 屬性</h2>
+    <div style="border:2px green solid;border-radius:5px;width:460px;height:50px;background-color:#eee;">
+        CSS3 border-radius 圓角特效
+    </div>
+    <br />
+
+    <h2>範例二、設計陰影效果的 box-shadow 屬性</h2>
+    <div style="box-shadow:3px 3px 12px pink;width:300px;line-height:100px;text-align:center;">
+        CSS3 box-shadow 陰影效果
+    </div>
+    <br />
+
+    <h2>範例三、設計圖片邊框效果的 border-image 屬性</h2>
+    <div id="NewImgBorder">CSS image-border 屬性範例</div>
+</body>
+</html>

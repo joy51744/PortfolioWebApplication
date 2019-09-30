@@ -188,7 +188,7 @@
                 </div>
                 <div class="callout primary">
                     <header class="col-md-12 text-center">
-                        <h2>This is a portfolio of front-end web pages,including HTML, CSS, JavaScript, Pure, Bootstrap, Foundation, jQuery, Angular, React, Vue.js</h2>
+                        <h2>This is a portfolio of front-end web pages,including HTML, CSS, JavaScript, Sass, Bootstrap, Foundation, jQuery, Angular, React, Vue.js</h2>
                     </header>
                 </div>
                 <div class="container grid-demo">

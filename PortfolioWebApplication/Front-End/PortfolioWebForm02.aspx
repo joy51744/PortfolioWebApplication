@@ -52,15 +52,15 @@
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card" style="background-color: aqua">
+                <div class="card">
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/upload.html">html5 Portfolio - 上傳文件</a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/HTML5/upload.html">html5 Portfolio - 文件上傳控件</a></p>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+            <%--            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card" style="background-color: aqua">
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
@@ -68,8 +68,8 @@
                         <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/video_player.html">html5 Portfolio - 視頻播放器</a></p>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+            </div>--%>
+            <%--            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card" style="background-color: aqua">
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
@@ -77,13 +77,13 @@
                         <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/html5/media_player.html">html5 Portfolio - 音樂播放器</a></p>
                     </div>
                 </div>
-            </div>
+            </div>--%>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="../HTML5/progress.html">html5 Portfolio - 進度條</a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/HTML5/progress.html">html5 Portfolio - 進度條</a></p>
                     </div>
                 </div>
             </div>
@@ -101,11 +101,11 @@
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="../HTML5/canvas.html">html5 Portfolio - Canvas 漸變圖形</a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/HTML5/canvas.html">html5 Portfolio - Canvas 漸變圖形</a></p>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+            <%--            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                 <div class="card">
                     <img class="card-img-top" style="height: 150px" src="../image/html5.jpg"
                         alt="Card image cap">
@@ -140,7 +140,7 @@
                         <p class="card-text" style="text-align: center"><a href="../HTML5/canvas_image.html">html5 Portfolio - SVG </a></p>
                     </div>
                 </div>
-            </div>
+            </div>--%>
         </div>
 
         <hr />

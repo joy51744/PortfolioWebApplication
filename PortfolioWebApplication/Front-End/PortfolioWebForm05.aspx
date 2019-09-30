@@ -11,7 +11,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/script.html">JavaScript Portfolio - script 標籤</a></p>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/output.html">JavaScript Portfolio - 輸出</a></p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/if.html">JavaScript Portfolio - if</a></p>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/if-else.html">JavaScript Portfolio - if-else</a></p>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/switch.html">JavaScript Portfolio - switch</a></p>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/for.html">JavaScript Portfolio - for</a></p>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/while.html">JavaScript Portfolio - while</a></p>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/do.html">JavaScript Portfolio - do</a></p>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/for-in.html">JavaScript Portfolio - for-in</a></p>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/continue.html">JavaScript Portfolio - continue</a></p>
                     </div>
                 </div>
             </div>
@@ -101,7 +101,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/break.html">JavaScript Portfolio - break</a></p>
                     </div>
                 </div>
             </div>
@@ -110,7 +110,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/variable.html">JavaScript Portfolio - 變數</a></p>
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/function.html">JavaScript Portfolio - function</a></p>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/function1.html">JavaScript Portfolio - 溫度轉換</a></p>
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/javascript.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/JacaScript/.html">JavaScript Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="../Portfolio/JavaScript/form.html">JavaScript Portfolio - 表單</a></p>
                     </div>
                 </div>
             </div>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>HTML5作品--文件上傳控件</title>
+    <style>
+        div {
+            margin-top: 30px;
+            border: solid 1px black;
+            padding: 5px;
+        }
+    </style>
+    <script>
+        function processFiles(files) {
+            var message = document.getElementById("message");
+            for (var i = 0; i < files.length; i++) {
+                //取得下一个文件
+                var file = files[i];
+                message.innerHTML += "文件名：" + file.name + "<br>";
+                message.innerHTML += "文件大小：" + file.size + "字節<br>";
+                message.innerHTML += "文件類型：" + file.type + "<br><br>";
+            }
+        }
+    </script>
+</head>
+<body>
+    <input id="fileInput" type="file" size="65" onchange="processFiles(this.files)" multiple>
+    <div id="message"></div>
+</body>
+</html>

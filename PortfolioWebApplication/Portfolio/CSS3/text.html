@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CSS3作品--文字效果</title>
+    <style>
+        p.test {
+            width: 11em;
+            border: 1px solid #000000;
+            word-wrap: break-word;
+        }
+
+        p.ex {
+            width: 11em;
+            border: 1px solid #000000;
+            text-wrap: none;
+        }
+
+        div {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center">CSS3 文字效果範例</h1>
+    <br />
+    <h2>範例一、文字陰影</h2>
+    <p style="text-shadow: 5px 5px 5px #FF0000;">文字陰影效果</p>
+    <br />
+
+    <h2>範例二、自動換行</h2>
+    <p class="ex">This paragraph contains a very long word: thisisaveryveryveryveryveryverylongword. The long word will break and wrap to the next line.</p>
+    <p class="test">This paragraph contains a very long word: thisisaveryveryveryveryveryverylongword. The long word will break and wrap to the next line.</p>
+    <br />
+
+    <h2>範例三、text-justify(文字左右貼齊)屬性</h2>
+    <div><p class="test">This paragraph contains a very long word: thisisaveryveryveryveryveryverylongword. The long word will break and wrap to the next line.</p></div>
+</body>
+</html>
