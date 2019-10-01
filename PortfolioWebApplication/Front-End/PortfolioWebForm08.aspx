@@ -11,7 +11,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - Grid System</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - grid system</a></p>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,34 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - DropdownList</a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - button</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card">
+                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/component.html">Bootstrap Portfolio - component</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card">
+                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - list group</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card">
+                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - dropdownList</a></p>
                     </div>
                 </div>
             </div>
@@ -56,43 +83,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - breadcrumb</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
-                        alt="Card image cap">
-                    <div class="card-body">
                         <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - pagination</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - thumbnail</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - alert</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                <div class="card">
-                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
-                        alt="Card image cap">
-                    <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - progress</a></p>
                     </div>
                 </div>
             </div>
@@ -110,7 +101,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - scrollspy</a></p>
                     </div>
                 </div>
             </div>
@@ -119,7 +110,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - tab</a></p>
                     </div>
                 </div>
             </div>
@@ -128,7 +119,7 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - collapse</a></p>
                     </div>
                 </div>
             </div>
@@ -137,7 +128,16 @@
                     <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
                         alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - </a></p>
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - carousel</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card">
+                    <img class="card-img-top" style="height: 150px" src="../image/bootstrap.png"
+                        alt="Card image cap">
+                    <div class="card-body">
+                        <p class="card-text" style="text-align: center"><a href="http://maprotgfolio.com/bootstrap/.html">Bootstrap Portfolio - affix</a></p>
                     </div>
                 </div>
             </div>
