@@ -67,23 +67,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Back-End\PortfolioWebForm.aspx" />
-    <Content Include="Back-End\PortfolioWebForm01.aspx" />
-    <Content Include="Back-End\PortfolioWebForm02.aspx" />
-    <Content Include="Back-End\PortfolioWebForm03.aspx" />
-    <Content Include="Back-End\PortfolioWebForm04.aspx" />
-    <Content Include="Back-End\PortfolioWebForm05.aspx" />
-    <Content Include="Back-End\PortfolioWebForm06.aspx" />
-    <Content Include="Back-End\PortfolioWebForm07.aspx" />
-    <Content Include="Back-End\PortfolioWebForm08.aspx" />
-    <Content Include="Back-End\PortfolioWebForm09.aspx" />
-    <Content Include="Back-End\PortfolioWebForm10.aspx" />
-    <Content Include="Back-End\PortfolioWebForm11.aspx" />
-    <Content Include="Back-End\PortfolioWebForm12.aspx" />
-    <Content Include="Back-End\PortfolioWebForm13.aspx" />
-    <Content Include="Back-End\PortfolioWebForm14.aspx" />
-    <Content Include="Back-End\PortfolioWebForm15.aspx" />
-    <Content Include="Back-End\PortfolioWebForm16.aspx" />
     <Content Include="Contact.html" />
     <Content Include="css\all.min.css" />
     <Content Include="css\blog-home.css" />
@@ -95,132 +78,33 @@
     <Content Include="css\shop-item.css" />
     <Content Include="css\small-business.css" />
     <Content Include="css\the-big-picture.css" />
-    <Content Include="Front-End\PortfolioWebForm.aspx" />
-    <Content Include="Front-End\PortfolioWebForm01.aspx" />
-    <Content Include="Front-End\PortfolioWebForm02.aspx" />
-    <Content Include="Front-End\PortfolioWebForm03.aspx" />
-    <Content Include="Front-End\PortfolioWebForm04.aspx" />
-    <Content Include="Front-End\PortfolioWebForm05.aspx" />
-    <Content Include="Front-End\PortfolioWebForm06.aspx" />
-    <Content Include="Front-End\PortfolioWebForm07.aspx" />
-    <Content Include="Front-End\PortfolioWebForm08.aspx" />
-    <Content Include="Front-End\PortfolioWebForm09.aspx" />
-    <Content Include="Front-End\PortfolioWebForm10.aspx" />
-    <Content Include="Front-End\PortfolioWebForm11.aspx" />
-    <Content Include="Front-End\PortfolioWebForm12.aspx" />
-    <Content Include="Front-End\PortfolioWebForm13.aspx" />
-    <Content Include="Front-End\PortfolioWebForm14.aspx" />
-    <Content Include="Front-End\PortfolioWebForm15.aspx" />
-    <Content Include="Front-End\PortfolioWebForm16.aspx" />
-    <Content Include="Front-End\PortfolioWebForm17.aspx" />
-    <Content Include="Front-End\PortfolioWebForm18.aspx" />
-    <Content Include="Front-End\PortfolioWebForm19.aspx" />
-    <Content Include="Front-End\PortfolioWebForm20.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="image\bootstrap4.png" />
+    <Content Include="image\223.png" />
     <Content Include="image\border.png" />
     <Content Include="image\lights600x400.jpg" />
     <Content Include="image\minwt_bg.jpg" />
     <Content Include="image\paris.jpg" />
     <Content Include="image\rock600x400.jpg" />
-    <Content Include="image\sass.jpg" />
-    <Content Include="Portfolio\CSS3\css\bootstrap-grid.min.css" />
-    <Content Include="Portfolio\CSS3\css\bootstrap.min.css" />
-    <Content Include="Portfolio\CSS3\css\demo.css" />
-    <Content Include="Portfolio\CSS3\css\htmleaf-demo.css" />
-    <Content Include="Portfolio\CSS3\css\normalize.css" />
-    <Content Include="Portfolio\CSS3\images\img-1.jpg" />
-    <Content Include="Portfolio\CSS3\images\img-2.jpg" />
-    <Content Include="Portfolio\CSS3\images\img-3.jpg" />
-    <Content Include="Portfolio\CSS3\images\jp2.jpg" />
-    <Content Include="Portfolio\CSS3\images\piece1.jpg" />
-    <Content Include="Portfolio\CSS3\position1.html" />
-    <Content Include="Portfolio\CSS3\text.html" />
-    <Content Include="Portfolio\CSS3\time.html" />
-    <Content Include="Portfolio\CSS3\vertical.html" />
-    <Content Include="Portfolio\CSS3\z-index.html" />
-    <Content Include="Portfolio\HTML5\canvas.html" />
-    <Content Include="Portfolio\HTML5\canvas_image.html" />
-    <Content Include="Portfolio\HTML5\upload.html" />
     <Content Include="images\jurassic-coast-1089035_1920.jpg" />
     <Content Include="image\01.png" />
-    <Content Include="image\223.png" />
-    <Content Include="image\AngularJS.png" />
     <Content Include="image\bg.jpg" />
     <Content Include="image\bg.png" />
-    <Content Include="image\bootstrap.png" />
     <Content Include="image\code.jpg" />
     <Content Include="image\coding.jpg" />
     <Content Include="image\cover_bg_3.jpg" />
-    <Content Include="image\css.png" />
-    <Content Include="image\css3.jpg" />
     <Content Include="image\curriculum.png" />
-    <Content Include="image\foundation.jpg" />
     <Content Include="image\github.png" />
-    <Content Include="image\html.png" />
-    <Content Include="image\html5.jpg" />
     <Content Include="image\images.png" />
     <Content Include="image\img_the_scream.jpg" />
-    <Content Include="image\javascript.png" />
     <Content Include="image\Joy.jpg" />
-    <Content Include="image\jquery.png" />
     <Content Include="image\Laravel.jpg" />
     <Content Include="image\mvc.png" />
     <Content Include="image\nodejs.jpeg" />
     <Content Include="image\PHP.png" />
-    <Content Include="image\pure.png" />
-    <Content Include="image\React.jpeg" />
-    <Content Include="image\vue.jpeg" />
     <Content Include="image\WordPress.png" />
     <Content Include="index.html" />
     <Content Include="js\form.js" />
     <Content Include="Portfolio.html" />
-    <Content Include="Portfolio\HTML5\progress.html" />
-    <Content Include="Portfolio\CSS3\animation.html" />
-    <Content Include="Portfolio\CSS3\background.html" />
-    <Content Include="Portfolio\CSS3\border.html" />
-    <Content Include="Portfolio\CSS3\button.html" />
-    <Content Include="Portfolio\CSS3\columns.html" />
-    <Content Include="Portfolio\CSS3\flex.html" />
-    <Content Include="Portfolio\CSS3\gradient.html" />
-    <Content Include="Portfolio\CSS3\grid.html" />
-    <Content Include="Portfolio\CSS3\picture.html" />
-    <Content Include="Portfolio\CSS3\position.html" />
-    <Content Include="Portfolio\JavaScript\array.html" />
-    <Content Include="Portfolio\JavaScript\bg.html" />
-    <Content Include="Portfolio\JavaScript\bg1.gif" />
-    <Content Include="Portfolio\JavaScript\bg2.gif" />
-    <Content Include="Portfolio\JavaScript\bg3.gif" />
-    <Content Include="Portfolio\JavaScript\bg4.gif" />
-    <Content Include="Portfolio\JavaScript\break.html" />
-    <Content Include="Portfolio\JavaScript\continue.html" />
-    <Content Include="Portfolio\JavaScript\disabled.html" />
-    <Content Include="Portfolio\JavaScript\element.html" />
-    <Content Include="Portfolio\JavaScript\event.html" />
-    <Content Include="Portfolio\JavaScript\for-in.html" />
-    <Content Include="Portfolio\JavaScript\for.html" />
-    <Content Include="Portfolio\JavaScript\do.html" />
-    <Content Include="Portfolio\JavaScript\form.html" />
-    <Content Include="Portfolio\JavaScript\function.html" />
-    <Content Include="Portfolio\JavaScript\function1.html" />
-    <Content Include="Portfolio\JavaScript\length.html" />
-    <Content Include="Portfolio\JavaScript\marquee.html" />
-    <Content Include="Portfolio\JavaScript\method2.html" />
-    <Content Include="Portfolio\JavaScript\if-else.html" />
-    <Content Include="Portfolio\JavaScript\if.html" />
-    <Content Include="Portfolio\JavaScript\innerHTML.html" />
-    <Content Include="Portfolio\JavaScript\method.html" />
-    <Content Include="Portfolio\JavaScript\method1.html" />
-    <Content Include="Portfolio\JavaScript\method3.html" />
-    <Content Include="Portfolio\JavaScript\new.html" />
-    <Content Include="Portfolio\JavaScript\output.html" />
-    <Content Include="Portfolio\JavaScript\script.html" />
-    <Content Include="Portfolio\JavaScript\switch.html" />
-    <Content Include="Portfolio\JavaScript\time.html" />
-    <Content Include="Portfolio\JavaScript\time1.html" />
-    <Content Include="Portfolio\JavaScript\variable.html" />
-    <Content Include="Portfolio\JavaScript\while.html" />
-    <Content Include="Portfolio\JavaScript\windows.html" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="vendor\bootstrap\css\bootstrap-reboot.css" />
@@ -239,301 +123,17 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Back-End\PortfolioWebForm.aspx.cs">
-      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm01.aspx.cs">
-      <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm01.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm02.aspx.cs">
-      <DependentUpon>PortfolioWebForm02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm02.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm03.aspx.cs">
-      <DependentUpon>PortfolioWebForm03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm03.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm04.aspx.cs">
-      <DependentUpon>PortfolioWebForm04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm04.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm05.aspx.cs">
-      <DependentUpon>PortfolioWebForm05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm05.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm06.aspx.cs">
-      <DependentUpon>PortfolioWebForm06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm06.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm07.aspx.cs">
-      <DependentUpon>PortfolioWebForm07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm07.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm08.aspx.cs">
-      <DependentUpon>PortfolioWebForm08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm08.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm09.aspx.cs">
-      <DependentUpon>PortfolioWebForm09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm09.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm10.aspx.cs">
-      <DependentUpon>PortfolioWebForm10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm10.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm11.aspx.cs">
-      <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm11.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm12.aspx.cs">
-      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm12.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm13.aspx.cs">
-      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm13.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm14.aspx.cs">
-      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm14.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm15.aspx.cs">
-      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm15.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm16.aspx.cs">
-      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\PortfolioWebForm16.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Back-End\Site.Master.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Back-End\Site.Master.designer.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm.aspx.cs">
-      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm01.aspx.cs">
-      <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm01.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm01.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm02.aspx.cs">
-      <DependentUpon>PortfolioWebForm02.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm02.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm02.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm03.aspx.cs">
-      <DependentUpon>PortfolioWebForm03.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm03.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm03.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm04.aspx.cs">
-      <DependentUpon>PortfolioWebForm04.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm04.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm04.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm05.aspx.cs">
-      <DependentUpon>PortfolioWebForm05.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm05.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm05.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm06.aspx.cs">
-      <DependentUpon>PortfolioWebForm06.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm06.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm06.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm07.aspx.cs">
-      <DependentUpon>PortfolioWebForm07.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm07.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm07.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm08.aspx.cs">
-      <DependentUpon>PortfolioWebForm08.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm08.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm08.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm09.aspx.cs">
-      <DependentUpon>PortfolioWebForm09.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm09.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm09.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm10.aspx.cs">
-      <DependentUpon>PortfolioWebForm10.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm10.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm11.aspx.cs">
-      <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm11.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm11.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm12.aspx.cs">
-      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm12.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm12.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm13.aspx.cs">
-      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm13.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm13.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm14.aspx.cs">
-      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm14.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm14.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm15.aspx.cs">
-      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm15.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm15.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm16.aspx.cs">
-      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm16.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm16.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm17.aspx.cs">
-      <DependentUpon>PortfolioWebForm17.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm17.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm17.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm18.aspx.cs">
-      <DependentUpon>PortfolioWebForm18.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm18.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm18.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm19.aspx.cs">
-      <DependentUpon>PortfolioWebForm19.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm19.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm19.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm20.aspx.cs">
-      <DependentUpon>PortfolioWebForm20.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\PortfolioWebForm20.aspx.designer.cs">
-      <DependentUpon>PortfolioWebForm20.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Front-End\Site.Master.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Front-End\Site.Master.designer.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Portfolio\Site.Master.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Portfolio\Site.Master.designer.cs">
-      <DependentUpon>Site.Master</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Back-End\Site.Master" />
-    <Content Include="Front-End\Site.Master" />
     <None Include="packages.config" />
     <Content Include="vendor\bootstrap\css\bootstrap.css.map" />
     <Content Include="vendor\bootstrap\css\bootstrap.min.css.map" />
@@ -543,9 +143,12 @@
     <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
     <Content Include="vendor\jquery\jquery.min.map" />
     <Content Include="vendor\jquery\jquery.slim.min.map" />
-    <Content Include="Portfolio\Site.Master" />
     <None Include="Properties\PublishProfiles\PortfolioWebApp - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\PortfolioWebApplication2019 - Web Deploy.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
